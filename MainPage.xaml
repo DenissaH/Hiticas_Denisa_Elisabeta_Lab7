@@ -20,13 +20,13 @@
                 VerticalOptions="Center">
 
                 <Image
-                    Source="dotnet_bot.png"
+                    Source="D:\FSEGA\Medii de progrmare\dowlanda.jpg"
                     SemanticProperties.Description="Cute dot net bot waving hi to you!"
                     HeightRequest="200"
                     HorizontalOptions="Center" />
 
                 <Label
-                    Text="Hello, World!"
+                    Text="Hello, Denisa!"
                     SemanticProperties.HeadingLevel="Level1"
                     FontSize="32"
                     HorizontalOptions="Center" />
@@ -46,12 +46,6 @@
                     HorizontalOptions="Center" />
             </VerticalStackLayout>
         </ScrollView>
-
-        <VerticalStackLayout Grid.Row="1" Spacing="10" Margin="10">
-            <Image Source="WhatsAppImage.jpeg" HeightRequest="64" />
-            <Label FontSize="22" FontAttributes="Bold" Text="Uite poza mea aici!" />
-        </VerticalStackLayout>
-    </Grid>
 
 </ContentPage>
 
